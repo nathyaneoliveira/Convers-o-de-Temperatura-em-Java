@@ -104,7 +104,4 @@ Este projeto pode ser expandido com:
 
 ## Licença
 
-Uso pessoal e acadêmico.
-
-Quer que eu faça isso?
-```
+Uso acadêmico.
